@@ -1,3 +1,5 @@
+> **Archived 2026-11.** A fork of nanocoai/nanoclaw-whatsapp, used by my retired NanoClaw v1 setup. Use the upstream repo. Kept for reference.
+
 <p align="center">
   <img src="assets/nanoclaw-logo.png" alt="NanoClaw" width="400">
 </p>
